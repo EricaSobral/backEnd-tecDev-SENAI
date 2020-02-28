@@ -1,0 +1,14 @@
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\bin\Debug\netcoreapp2.1\senai-projetoPeople-token.deps.json
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\bin\Debug\netcoreapp2.1\senai-projetoPeople-token.runtimeconfig.json
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\bin\Debug\netcoreapp2.1\senai-projetoPeople-token.runtimeconfig.dev.json
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\bin\Debug\netcoreapp2.1\senai-projetoPeople-token.dll
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai-projetoPeople-token.csprojAssemblyReference.cache
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai-projetoPeople-token.csproj.CoreCompileInputs.cache
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai-projetoPeople-token.RazorAssemblyInfo.cache
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai-projetoPeople-token.RazorAssemblyInfo.cs
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai-projetoPeople-token.AssemblyInfoInputs.cache
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai-projetoPeople-token.AssemblyInfo.cs
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai-projetoPeople-token.RazorTargetAssemblyInfo.cache
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\bin\Debug\netcoreapp2.1\senai-projetoPeople-token.pdb
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai-projetoPeople-token.dll
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai-projetoPeople-token.pdb

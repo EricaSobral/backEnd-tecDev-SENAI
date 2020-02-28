@@ -1,0 +1,6 @@
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai.projetoPeople.token.csprojAssemblyReference.cache
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai.projetoPeople.token.csproj.CoreCompileInputs.cache
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai.projetoPeople.token.RazorAssemblyInfo.cache
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai.projetoPeople.token.RazorAssemblyInfo.cs
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai.projetoPeople.token.AssemblyInfoInputs.cache
+C:\Users\44994599823\Desktop\backend\projetopopleToken\senai-projetoPeople-token\senai-projetoPeople-token\obj\Debug\netcoreapp2.1\senai.projetoPeople.token.AssemblyInfo.cs
